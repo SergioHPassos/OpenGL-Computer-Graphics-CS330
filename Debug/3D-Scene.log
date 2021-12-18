@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(292,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(382,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(383,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(387,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(388,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(390,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(391,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Source.cpp(401,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3D-Scene.vcxproj -> C:\Users\shp36\Documents\Programming\CPP\3D-Scene\Debug\3D-Scene.exe
